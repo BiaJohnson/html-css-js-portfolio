@@ -284,6 +284,7 @@ section{
 .about-details-container{
     display: flex;
     height: fit-content;
+    margin-bottom: 20px;
 }
 
 .about-pic{
