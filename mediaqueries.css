@@ -24,8 +24,7 @@
         display: block;
     }
     #about, .section__text__p1 {
-        display: flex;
-    }
+
     .arrow{
         display: none;
     }
