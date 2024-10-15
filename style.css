@@ -278,7 +278,6 @@ section{
 .about-details-container{
     justify-content: center;
     flex-direction: column;
-    height: fit-content;
 }
 
 .about-containers, 
@@ -308,7 +307,7 @@ section{
 
 .section-container {
     gap: 4rem;
-    height: 80%;
+    height: fit-content;
 }
 
 .section__pic-container {
