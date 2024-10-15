@@ -267,7 +267,7 @@ section{
 
 #about {
     position: relative;
-    min-height: fit-content;
+    min-height: 300px;
 }
 
 .about-containers{
