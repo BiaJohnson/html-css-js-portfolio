@@ -267,6 +267,7 @@ section{
 
 #about {
     position: relative;
+    display:block;
 }
 
 .about-containers{
